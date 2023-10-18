@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Muhammad Ateeb Aslam, a Python Developer, Linux Admin and CyberSecurity Enthusiast
+- 👀 I previously worked in "Internet of Things" domain also 
 - 👀 I’m interested in Solving Problems that's why I call myself a "Dedicated Problem Solver" 
 - 🌱 I’m currently learning Amazon Web Services
 - 💞️ I’m looking to collaborate on Python, Cloud computing and Cyber security related projects
