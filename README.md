@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Muhammad Ateeb Aslam, a Python and Internet of Things developer
-- 👀 I’m interested in building Smart IoT Products 
-- 🌱 I’m currently learning Computer vision using Python so I can utilize it in my Raspberry Pi Projects
-- 💞️ I’m looking to collaborate on Python, IoT and Cloud computing type projects
-- 📫 How to reach me: EMail: ateeb327@gmail.com
+- 👋 Hi, I’m Muhammad Ateeb Aslam, a Python Developer, Linux Admin and CyberSecurity Enthusiast
+- 👀 I’m interested in Solving Problems that's why I call myself a "Dedicated Problem Solver" 
+- 🌱 I’m currently learning Amazon Web Services
+- 💞️ I’m looking to collaborate on Python, Cloud computing and Cyber security related projects
+- 📫 How to reach me: Email: ateeb327@gmail.com
 
 <!---
 ateeb327/ateeb327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
